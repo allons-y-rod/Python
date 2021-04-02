@@ -5,7 +5,7 @@
 - Pastas:
 
 - Fundamentos Python (Programas criados para praticar os fundamentos da linguagem)
-- Programas para Programas para a Engenharia(Programas criados para resolução de problemas presentes na Engenharia Química)
+- Programas para Programas para a Engenharia (Programas criados para resolução de problemas presentes na Engenharia Química)
 
 
 - Enjoy it!! o/
